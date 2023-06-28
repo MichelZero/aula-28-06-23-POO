@@ -9,7 +9,7 @@
 # idade de uma pessoa em outros planetas.
 # a classe deve ter um método que receba a idade da pessoa em anos terrestres
 
-class calculadora:
+class calcIdade:
     def __init__(self, idade):
         self.idade = idade
 
