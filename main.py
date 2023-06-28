@@ -13,7 +13,7 @@ from ex02 import calcIdade2
 israel = calcIdade(10)
 print(f"em marte Israel têm a idade de {israel.marte()} anos")
 
-# crianco objeto da classe calcIdade2 e passando a idade em anos
+# criando objeto da classe calcIdade2 e passando a idade em anos
 # terrestres como parâmetro para o construtor da classe calcIdade2
 joao = calcIdade2(16)
 joao.idadeSysSolar()
